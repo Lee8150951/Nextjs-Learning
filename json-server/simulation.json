@@ -1,0 +1,52 @@
+{
+  "players": [
+    {
+      "id": "1",
+      "name": "Kobe",
+      "age": 36
+    },
+    {
+      "id": "2",
+      "name": "Jordan",
+      "age": 42
+    },
+    {
+      "id": "3",
+      "name": "James",
+      "age": 33
+    },
+    {
+      "id": "4",
+      "name": "Harden",
+      "age": 26
+    },
+    {
+      "id": "5",
+      "name": "Curry",
+      "age": 26
+    }
+  ],
+  "users": [
+    {
+      "name": {
+        "userName":"admin",
+        "nickName":"admin"
+      },
+      "pwd": "123456"
+    },
+    {
+      "name": {
+        "userName":"zhangsan",
+        "nickName":"zhangsan"
+      },
+      "pwd": "123456"
+    },
+    {
+      "name": {
+        "userName":"lisi",
+        "nickName":"lisi"
+      },
+      "pwd": "123456"
+    }
+  ]
+}
